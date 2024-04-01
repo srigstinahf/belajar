@@ -33,6 +33,11 @@ nano: mengedit teks di terminal (hanya bisa digunakan dalam terminal)
 ## &&
 && : untuk menjalankan dua command atau lebih
 
+## CARA RUNNING 
+- g++ samplearray.cpp -o samplearray
+- ./samplearray
+
+
 ## PUSH KE GITHUB
 git init
 git add .
